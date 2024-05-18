@@ -6,3 +6,8 @@ su-ssl.lge.com
 snu-dev.lge.com
 su-dev.lge.com
 nsu.lge.com
+
+# extra domains blocked
+
+gb.lgtvsdp.com
+lgtvonline.lge.com
