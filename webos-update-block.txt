@@ -11,3 +11,4 @@ nsu.lge.com
 
 gb.lgtvsdp.com
 lgtvonline.lge.com
+snu.lge.com
